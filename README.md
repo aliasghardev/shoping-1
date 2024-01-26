@@ -4,7 +4,6 @@
 
 ![39](https://github.com/aliasghardev/shoping-1/assets/144837096/1181fbe7-b903-49b4-85d5-c94a29657951)
 
--turn on your vpn
 
 - [Demo Project](https://shoping-1.vercel.app/)
 
