@@ -6,7 +6,7 @@
 
 -turn on your vpn
 
-- [Demo Project]([https://aliasghardev.github.io/sign-in-sign-up/](https://shoping-1.vercel.app/))
+- [Demo Project](https://shoping-1.vercel.app/)
 
 - Developed by aliasghar gholami
 
