@@ -11,7 +11,7 @@
 
 - Created - 2024/01/26
 
-- Technologies Used - Html , react , tailwind
+- Technologies Used - Html , react , tailwind , API
 
 - Hooks Used : useState 
 
